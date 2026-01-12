@@ -121,13 +121,13 @@
 <div align="center">
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaInda01&theme=dark&hide_border=false&layout=compact" 
     alt="Top Languages" 
     width="67%" 
   />
   <br/> <br/>  <br/>
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=AnjanaInda01&theme=dark&hide_border=false" 
     alt="GitHub Streak" 
     width="67%" 
   />
