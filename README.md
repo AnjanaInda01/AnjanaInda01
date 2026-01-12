@@ -140,6 +140,6 @@
 ## 🏆 Developer Milestones
  <br/> <br/>
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
+    src="https://github-profile-trophy.vercel.app/?username=AnjanaInda01&theme=gruvbox&no-frame=true&no-bg=true" 
     alt="GitHub Trophies"
   />
