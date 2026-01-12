@@ -1,3 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 <h1 align="center">Hi 👋, I'm Anjana Induranga</h1>
 <h3 align="center">🚀 Fullstack Engineer | ☕ Java & JS Explorer</h3>
 
@@ -116,30 +119,3 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
-    alt="Top Languages" 
-    width="67%" 
-  />
-  <br/> <br/>  <br/>
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
-    alt="GitHub Streak" 
-    width="67%" 
-  />
-  
-  <br/>
-  <br/> <br/> 
-
-</div>
-
-## 🏆 Developer Milestones
- <br/> <br/>
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
-    alt="GitHub Trophies"
-  />
