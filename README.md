@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Binoj Madhuranga</h1>
-<h3 align="center">🚀 Fullstack Engineer | 🌐 AI/ML Enthusiast | ☕ Java & JS Explorer</h3>
+<h1 align="center">Hi 👋, I'm Anjana Induranga</h1>
+<h3 align="center">🚀 Fullstack Engineer | ☕ Java & JS Explorer</h3>
 
 <div align="center">
   <img 
@@ -10,7 +10,7 @@
     style="border-radius: 50%;" 
   />
   <br/>
-  <a href="https://www.linkedin.com/in/binoj-madhuranga" target="_blank">
+  <a href="https://www.linkedin.com/in/anjana-induranga-b39334312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -20,10 +20,10 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on Fullstack Projects with Java, JavaScript,TypeScript, Springboot,Next.js and Expo.
-- 🌱 I’m learning **Spring Boot**, **React**, and exploring **AI/ML**
+- 🔭 I’m currently working on Fullstack Projects with Java, JavaScript,TypeScript, Springboot,React and React Native and DevOps.
+- 🌱 I’m learning **Spring Boot**, **React**, and exploring **DevOps**
 - 👯 I love collaborating on **Open Source Projects**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/binoj-madhuranga)  
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/anjana-induranga-b39334312)  
 
 ---
 
@@ -41,7 +41,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
@@ -57,7 +56,6 @@
 <table align="center">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React Native</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="45"/><br>Expo</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>Android Studio</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>NativeWind</td>
 </tr>
@@ -75,9 +73,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
 
 
@@ -96,29 +91,12 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="45"/><br>Hibernate</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br>Prisma</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sequelize" width="45"/><br>Sequelize</td>
 </tr>
 </table>
 </p>
 
 <br/>
 
-<!-- 🧠 AI/ML -->
-<h2 align="center">🧠 Machine Learning / AI</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
-<td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" width="45"/><br>ONNX</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/><br>Google Colab</td>
-</tr>
-</table>
-</p>
-
-<br/>
 
 <!-- 🛠 Tools -->
 <h2 align="center">🛠️ Tools, DevOps & Environment</h2>
@@ -133,7 +111,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="45"/><br>Jenkins</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
 </tr>
 </table>
 </p>
